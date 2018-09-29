@@ -16,7 +16,7 @@ export default class Index extends Component{
                 <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet"></link>
                 
                 <p className="line-1 anim-typewriter">
-                    We Are Comming Soon &#9996;
+                    We Are Coming Soon &#9996;
                 </p>
             <style jsx>
             {`
